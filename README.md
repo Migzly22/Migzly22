@@ -1,4 +1,10 @@
-## Hi there 👋
+## Yahallo 👋, im Rolly
+
+👨🏻‍💻 Fullstack Software Developer <br/>
+🎓 Studied Information Technology at Cavite State University, Imus Campus <br/>
+💼 Working as Full Stack Developer <br/>
+
+![Migrino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migzly22&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **Migzly22/Migzly22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
